@@ -1,16 +1,11 @@
-## Hi there 👋
+<!-- Banner -->
+<div align="center">
+<img src="https://i.pinimg.com/originals/e4/c5/aa/e4c5aa6eea7ed6f3f09c58cb2dda7e00.gif" width="100%" height="190" />
+  
+# ୨୧ welcome to my github ♡
+</div>
 
-<!--
-**Spohtyotp/Spohtyotp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Cute heart image-->
+<div>
+  <img align="right" width="40%" src="
+</div>
